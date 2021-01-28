@@ -1,2 +1,2 @@
 # hello-world
-ssssssssssssdsadsssssssssssssssssssssssss
+This is a small exercise.
